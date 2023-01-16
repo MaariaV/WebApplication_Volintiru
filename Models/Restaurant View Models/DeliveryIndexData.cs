@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplication_Volintiru.Models;
 
 namespace WebApplication_Oltean_Cristina.Models.RestaurantViewModels
 {

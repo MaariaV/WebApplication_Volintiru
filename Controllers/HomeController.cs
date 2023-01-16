@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using WebApplication_Volintiru.Data;
-using WebApplication_Volintiru.Models;
+using WebApplication_Volintiru.Models.RestaurantViewModels;
 
 namespace WebApplication_Volintiru.Controllers
 {
